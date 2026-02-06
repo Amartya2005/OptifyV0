@@ -201,9 +201,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Project Maintainer:** Your Name  
-**Email:** your.email@example.com  
-**Project Link:** [https://github.com/yourusername/optify](https://github.com/yourusername/optify)
+**Project Maintainer:** Amartya Sarangee  
+**Email:** sarangeeamartya@gmail.com  
+**Project Link:** [https://github.com/yourusername/optify](https://github.com/Amartya2005/OptifyV0)
 
 ---
 
