@@ -203,7 +203,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Project Maintainer:** Amartya Sarangee  
 **Email:** sarangeeamartya@gmail.com  
-**Project Link:** [https://github.com/yourusername/optify](https://github.com/Amartya2005/OptifyV0)
+**Project Link:** [https://github.com/Amartya2005/OptifyV0](https://github.com/Amartya2005/OptifyV0)
 
 ---
 
